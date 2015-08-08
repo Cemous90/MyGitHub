@@ -3,3 +3,12 @@ D:\MySource\MyGitHub\MyTrunk\MyTrunk.Services\bin\Debug\MyTrunk.Services.pdb
 D:\MySource\MyGitHub\MyTrunk\MyTrunk.Services\obj\Debug\MyTrunk.Services.csprojResolveAssemblyReference.cache
 D:\MySource\MyGitHub\MyTrunk\MyTrunk.Services\obj\Debug\MyTrunk.Services.dll
 D:\MySource\MyGitHub\MyTrunk\MyTrunk.Services\obj\Debug\MyTrunk.Services.pdb
+D:\MySource\MyGitHub\MyTrunk\MyTrunk.Services\bin\Debug\MyTrunk.Services.dll.config
+D:\MySource\MyGitHub\MyTrunk\MyTrunk.Services\bin\Debug\EntityFramework.dll
+D:\MySource\MyGitHub\MyTrunk\MyTrunk.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\MySource\MyGitHub\MyTrunk\MyTrunk.Services\bin\Debug\MyTrunk.Model.dll
+D:\MySource\MyGitHub\MyTrunk\MyTrunk.Services\bin\Debug\MyTrunk.Model.pdb
+D:\MySource\MyGitHub\MyTrunk\MyTrunk.Services\bin\Debug\EntityFramework.xml
+D:\MySource\MyGitHub\MyTrunk\MyTrunk.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\MySource\MyGitHub\MyTrunk\MyTrunk.Services\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\MySource\MyGitHub\MyTrunk\MyTrunk.Services\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
