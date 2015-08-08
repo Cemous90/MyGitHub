@@ -1,0 +1,5 @@
+D:\MySource\MyGitHub\MyTrunk\MyTrunk.Common\bin\Debug\MyTrunk.Common.dll
+D:\MySource\MyGitHub\MyTrunk\MyTrunk.Common\bin\Debug\MyTrunk.Common.pdb
+D:\MySource\MyGitHub\MyTrunk\MyTrunk.Common\obj\Debug\MyTrunk.Common.csprojResolveAssemblyReference.cache
+D:\MySource\MyGitHub\MyTrunk\MyTrunk.Common\obj\Debug\MyTrunk.Common.dll
+D:\MySource\MyGitHub\MyTrunk\MyTrunk.Common\obj\Debug\MyTrunk.Common.pdb

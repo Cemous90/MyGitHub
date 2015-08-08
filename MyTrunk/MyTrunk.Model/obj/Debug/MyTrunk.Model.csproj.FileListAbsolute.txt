@@ -1,0 +1,5 @@
+D:\MySource\MyGitHub\MyTrunk\MyTrunk.Model\bin\Debug\MyTrunk.Model.dll
+D:\MySource\MyGitHub\MyTrunk\MyTrunk.Model\bin\Debug\MyTrunk.Model.pdb
+D:\MySource\MyGitHub\MyTrunk\MyTrunk.Model\obj\Debug\MyTrunk.Model.csprojResolveAssemblyReference.cache
+D:\MySource\MyGitHub\MyTrunk\MyTrunk.Model\obj\Debug\MyTrunk.Model.dll
+D:\MySource\MyGitHub\MyTrunk\MyTrunk.Model\obj\Debug\MyTrunk.Model.pdb
