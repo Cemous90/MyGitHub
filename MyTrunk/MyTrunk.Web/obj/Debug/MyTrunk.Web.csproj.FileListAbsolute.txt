@@ -71,3 +71,4 @@ D:\MySource\MyGitHub\MyTrunk\MyTrunk.Web\bin\zh-Hans\Microsoft.Owin.Security.Twi
 D:\MySource\MyGitHub\MyTrunk\MyTrunk.Web\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
 D:\MySource\MyGitHub\MyTrunk\MyTrunk.Web\obj\Debug\MyTrunk.Web.dll
 D:\MySource\MyGitHub\MyTrunk\MyTrunk.Web\obj\Debug\MyTrunk.Web.pdb
+D:\MySource\MyGitHub\MyTrunk\MyTrunk.Web\obj\Debug\MyTrunk.Web.csprojResolveAssemblyReference.cache
