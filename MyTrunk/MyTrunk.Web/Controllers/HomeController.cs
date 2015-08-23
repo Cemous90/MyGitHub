@@ -9,17 +9,18 @@ namespace MyTrunk.Web.Controllers
             return View();
         }
 
-        public ActionResult About()
+        public ActionResult DashBoard()
         {
-            ViewBag.Message = "Your application description page.";
-
             return View();
         }
 
-        public ActionResult Contact()
+        public ActionResult Form()
         {
-            ViewBag.Message = "Your contact page.";
+            return View();
+        }
 
+        public ActionResult Table()
+        {
             return View();
         }
     }
